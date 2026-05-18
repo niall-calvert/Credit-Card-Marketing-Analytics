@@ -1,4 +1,4 @@
-# Power BI Report Title
+# Credit Card Marketing Analytics Tool
 
 ## Overview
 This Power BI dashboard analyzes sales performance, revenue trends, customer segments, and product profitability using an anonymized dataset from the UCI Machine Learning Repository. The data itself is related to direct marketing campaigns (phone calls) of a Portuguese banking institution.
@@ -73,7 +73,6 @@ The classification goal is to predict if the client will subscribe (yes/no) a te
 - Power Query
 - DAX
 - CSV
-- GitHub
 
 ## Power BI Techniques Used
 - Data cleaning in Power Query
