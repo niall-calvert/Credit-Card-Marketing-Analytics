@@ -11,7 +11,9 @@ This Power BI dashboard analyzes sales performance, revenue trends, customer seg
 ![Campaign Efficiency](Screenshot 2026-05-17 174853.png)
 
 
-## DatasetThis dataset contains bank client information, details about the most recent marketing contact, and previous campaign history.
+## Dataset
+
+This dataset contains bank client information, details about the most recent marketing contact, and previous campaign history.
 
 The input variables include:
 
