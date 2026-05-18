@@ -5,10 +5,10 @@ This Power BI dashboard analyzes sales performance, revenue trends, customer seg
 
 ## Preview
 
-![Home Page](Screenshot 2026-05-17 174807.png)
-![Executive Summary](Screenshot 2026-05-17 174826.png)
-![Customer Segment](Screenshot 2026-05-17 174840.png)
-![Campaign Efficiency](Screenshot 2026-05-17 174853.png)
+![Home Page](Home.png)
+![Executive Summary](executivesummary.png)
+![Customer Segment](customersegment.png)
+![Campaign Efficiency](campaignefficiency.png)
 
 
 ## Dataset
